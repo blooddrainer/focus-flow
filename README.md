@@ -1,4 +1,4 @@
-# Clever Focus Space
+# FocusFlow
 
 Demo marketing site for **FocusFlow**, a fictional AI productivity product. The UI is a single long-form landing page built with **React 19**, **Vite 7**, **Tailwind CSS 4**, and **React Router**.
 

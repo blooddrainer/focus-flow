@@ -1,0 +1,269 @@
+{
+  "seo": {
+    "title": "FocusFlow — AI-powered productivity for deep work"
+  },
+  "lang": {
+    "en": "EN",
+    "bg": "БГ",
+    "switchLabel": "Language"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "goHome": "Go home"
+  },
+  "home": {
+    "brand": "FocusFlow",
+    "sideRail": {
+      "today": "Today",
+      "tools": "Tools",
+      "flow": "Flow",
+      "voices": "Voices",
+      "plans": "Plans",
+      "signIn": "Sign in →"
+    },
+    "topBar": {
+      "version": "v 2.4 · Aurora",
+      "liveStat": "Currently · 12,418 in focus",
+      "getStarted": "Get started"
+    },
+    "hero": {
+      "badge": "Live · AI productivity OS",
+      "badgeIndex": "/ 001",
+      "titleLine1": "Do less.",
+      "titleLine2": "Finish",
+      "titleLine3": "more.",
+      "subtitle": "FocusFlow is an AI productivity OS that organizes your tasks, defends your focus, and quietly nudges you toward the work that actually matters.",
+      "ctaPrimary": "Start free for 14 days",
+      "ctaSecondary": "See it in motion",
+      "stats": [
+        { "value": "12k+", "label": "Focused humans" },
+        { "value": "4.2h", "label": "Avg deep work / day" },
+        { "value": "98%", "label": "Stayed past month 1" }
+      ],
+      "panelTime": "Right now · 09:32",
+      "panelMood": "Morning peak",
+      "aiLabel": "FocusFlow AI",
+      "aiCardBefore": "Your calendar is clear until 11:00. This is your best window for",
+      "aiCardHighlight": "\"Q3 product narrative.\"",
+      "aiCardAfter": "Start a 90-minute focus block?",
+      "aiStartFocus": "Start focus",
+      "aiLater": "Later",
+      "focusSession": "In focus · 23:14",
+      "focusTaskTitle": "Write Q3 product narrative",
+      "focusMinStart": "23 min",
+      "focusMinEnd": "90 min",
+      "streakTitle": "7-day streak",
+      "streakSubtitle": "Keep it gentle, not perfect."
+    },
+    "marquee": {
+      "items": [
+        "Deep Focus",
+        "Smart Tasks",
+        "Flow State",
+        "AI Planner",
+        "Time Blocks",
+        "Focus Score",
+        "Zen Mode",
+        "Daily Review"
+      ]
+    },
+    "bento": {
+      "kicker": "/ Toolkit",
+      "titleLine1": "Six quiet tools.",
+      "titleLine2": "One calm interface.",
+      "subtitle": "Designed to protect attention rather than capture it. Every pixel earns its place.",
+      "bigTitleLine1": "AI that understands",
+      "bigTitleLine2": "your energy, not just your calendar.",
+      "bigDesc": "Suggestions based on when you actually do your best work — never generic, never noisy.",
+      "bigFooter": "Powered by FlowSense™",
+      "cardPrioritizationTitle": "Smart prioritization",
+      "cardPrioritizationDesc": "Tasks ranked by impact and energy — not the loudest tab.",
+      "cardFocusTitle": "Protected focus",
+      "cardFocusDesc": "One-click deep work. Zero notifications, ambient sound.",
+      "cardCalendarTitle": "Calendar-aware",
+      "cardCalendarDesc": "Your day blocks itself around real meetings and energy.",
+      "cardReviewsTitle": "Honest reviews",
+      "cardReviewsDesc": "Weekly insights that surface what to drop, not just do.",
+      "cardPrivateTitle": "Private by default",
+      "cardPrivateDesc": "End-to-end encrypted. Your notes never train anyone's model."
+    },
+    "flow": {
+      "kicker": "/ A day in flow",
+      "titleLine1": "Your day, designed",
+      "titleLine2": "around your energy.",
+      "blockLabel": "Block {{num}}",
+      "eod": "EOD",
+      "arrow": "→",
+      "prevSlide": "Previous time block",
+      "nextSlide": "Next time block",
+      "goToSlide": "Go to block {{num}}",
+      "slideCounter": "{{current}} / {{total}}",
+      "slideWindow": "{{from}}–{{to}} of {{total}}",
+      "blocks": [
+        {
+          "time": "07:00",
+          "title": "Gentle start",
+          "body": "Morning brief: 3 priorities, weather, energy check."
+        },
+        {
+          "time": "09:30",
+          "title": "Deep work · 90m",
+          "body": "Q3 product narrative. Notifications muted, music started."
+        },
+        {
+          "time": "11:00",
+          "title": "Shallow batch",
+          "body": "Replies, reviews, quick decisions — all in one sweep."
+        },
+        {
+          "time": "12:30",
+          "title": "Real lunch",
+          "body": "FocusFlow refuses to schedule meetings here. You're welcome."
+        },
+        {
+          "time": "14:00",
+          "title": "Collaboration",
+          "body": "1:1 with Maya, design critique, async check-ins."
+        },
+        {
+          "time": "16:30",
+          "title": "Wind down",
+          "body": "AI prepares tomorrow's plan from today's signals."
+        }
+      ]
+    },
+    "voices": {
+      "kicker": "/ Voices",
+      "titleLine1": "Quiet tools.",
+      "titleLine2": "Loud results.",
+      "ratingLine": "avg rating · 2,318 reviews",
+      "quotes": [
+        {
+          "big": true,
+          "quote": "FocusFlow is the first productivity app I haven't quit after a week. It's quiet in all the right ways — and the AI suggestions feel like a thoughtful colleague.",
+          "name": "Lena Park",
+          "role": "Product Designer · Linear"
+        },
+        {
+          "big": false,
+          "quote": "The AI suggestions feel like a thoughtful colleague. My deep work hours doubled.",
+          "name": "Marcus Hill",
+          "role": "Eng Lead · Stripe"
+        },
+        {
+          "big": false,
+          "quote": "Replaced three apps. Gave me back my mornings. The weekly review alone is worth it.",
+          "name": "Aisha Rahman",
+          "role": "Founder · Loop Studio"
+        }
+      ]
+    },
+    "pricing": {
+      "kicker": "/ Plans",
+      "titleLine1": "Pay for focus,",
+      "titleLine2": "not features.",
+      "mostLoved": "★ Most loved",
+      "tiers": [
+        {
+          "name": "Free",
+          "price": "0",
+          "period": "forever",
+          "desc": "For trying out the calm.",
+          "features": [
+            "Up to 30 tasks",
+            "1 focus session / day",
+            "Basic AI suggestions"
+          ],
+          "cta": "Start free",
+          "featured": false
+        },
+        {
+          "name": "Pro",
+          "price": "9",
+          "period": "per month",
+          "desc": "For serious deep workers.",
+          "features": [
+            "Unlimited tasks & projects",
+            "Unlimited focus sessions",
+            "Advanced AI suggestions",
+            "Calendar integration",
+            "Weekly insights"
+          ],
+          "cta": "Start 14-day trial",
+          "featured": true
+        },
+        {
+          "name": "Team",
+          "price": "19",
+          "period": "per user / mo",
+          "desc": "For aligned, calm teams.",
+          "features": [
+            "Everything in Pro",
+            "Shared focus rituals",
+            "Team workload view",
+            "Admin & SSO"
+          ],
+          "cta": "Talk to sales",
+          "featured": false
+        }
+      ]
+    },
+    "cta": {
+      "titleLine1": "Reclaim",
+      "titleLine2": "your ",
+      "titleHighlight": "focus.",
+      "subtitle": "Join 12,418 professionals who replaced anxious to-do lists with calm, intentional days.",
+      "primary": "Start free for 14 days",
+      "secondary": "Book a demo",
+      "footerCopyright": "· © {{year}} · Aurora release",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "changelog": "Changelog",
+      "contact": "Contact"
+    }
+  },
+  "register": {
+    "seoTitle": "Sign up — FocusFlow",
+    "back": "Back to home",
+    "title": "Create your account",
+    "subtitle": "Start your 14-day trial. No credit card required.",
+    "fullName": "Full name",
+    "email": "Work email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "terms": "I agree to the Terms of Service and Privacy Policy.",
+    "submit": "Create account",
+    "successTitle": "Check your inbox",
+    "successBody": "We sent a confirmation link to your email. (Demo — no email is actually sent.)",
+    "errors": {
+      "required": "This field is required.",
+      "email": "Enter a valid email address.",
+      "passwordLength": "Use at least 8 characters.",
+      "passwordMatch": "Passwords do not match.",
+      "terms": "Please accept the terms to continue."
+    }
+  },
+  "bookDemo": {
+    "title": "Book a demo",
+    "subtitle": "Share a few details and we'll reach out within one business day.",
+    "fullName": "Full name",
+    "workEmail": "Work email",
+    "company": "Company",
+    "role": "Role / title",
+    "teamSize": "Team size",
+    "teamSizePlaceholder": "Select range",
+    "team1": "1–10",
+    "team2": "11–50",
+    "team3": "51–200",
+    "team4": "201+",
+    "message": "What would you like to see?",
+    "messageOptional": "Optional",
+    "close": "Close",
+    "done": "Done",
+    "cancel": "Cancel",
+    "submit": "Request demo",
+    "successTitle": "Request received",
+    "successBody": "Thanks — our team will contact you shortly. (Demo — this form does not send data.)"
+  }
+}
